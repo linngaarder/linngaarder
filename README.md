@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there i'm Linn👋
+- 😄 Pronouns: she/her
 
+## Things i'm studying:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 <!--
@@ -13,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
