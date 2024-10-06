@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 <!--
 **linngaarder/linngaarder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
