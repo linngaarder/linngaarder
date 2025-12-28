@@ -7,7 +7,7 @@
 
 ## Hobbies and Interests
 
-- Any craft you can think of, I've probably tried it. My favorites are crochet and cross stitch(I also regularly knit, sew, embroider)
+- Any craft you can think of, I've probably tried it. My favorites are crochet and cross stitch(I also regularly knit, sew, embroider. I've tried pottery, rug tufting, scrapbooking ect)
 - I love reading(or listening to) books(I'm currently working on reading one book from every country in the world)
 - I am a (norwegian)football fan
 - I love playing video games/pc games. My favorites include The Legend of Zelda series, the Dishonored series, Skyrim
