@@ -3,7 +3,7 @@
 - 🌱 Grown up in the cold north, currently living in wet Stavanger
 
 ## Things i'm studying:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react, tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind)](https://skillicons.dev)
 
 ## Hobbies and Interests
 
